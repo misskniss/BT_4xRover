@@ -5,6 +5,8 @@
    File: DCMotor.h
    Author: Jkniss
    Date: April 2015
+    
+   *******
  
  ********************************************************************
  Copyright 2015 Jenny Kniss
